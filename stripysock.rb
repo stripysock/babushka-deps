@@ -35,8 +35,8 @@ dep "workstation" do
   requires "homebrew services"
 
   # Ruby
-  requires "ruby 2.4.0"
-  requires "global ruby version".with "2.4.0"
+  # requires "ruby 2.4.0"
+  # requires "global ruby version".with "2.4.0"
 end
 
 dep "workstation webdev" do
